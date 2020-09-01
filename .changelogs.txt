@@ -1,0 +1,15 @@
+30 AUGUST 2020
+>initial commit
+>added files
+
+31 AUGUST 2020
+>fixed bug @ /GTP-1 (dead next game button)
+
+1 SEPTEMBER 2020
+>added clues to GTP games
+
+1. ball - doll (ll)
+2. pen - queen (e)
+3. bag - dog (g)
+4. door - book (oo)
+5. bear -  pear (r)
